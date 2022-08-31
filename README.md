@@ -1,9 +1,9 @@
 <h1 align="center">👃 Che!</h1>
 <h3 align="center">I'm Nahuel, a 20 years old Front-End Developer</h3>
 
- <h1> 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h1>
-- 🎧Music [Rock and Metal(JP), Pop(JP or EN), Electronic](Rock and Metal(JP), Pop(JP or EN), Electronic)
-- 🕛Hobbies **Games, anime, manga, gym**
+ <h1> 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h1> <br>
+- 🎧Music [Rock and Metal(JP), Pop(JP or EN), Electronic](Rock and Metal(JP), Pop(JP or EN), Electronic)<br>
+- 🕛Hobbies **Games, anime, manga, gym**<br>
 
 
 
