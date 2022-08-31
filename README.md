@@ -1,11 +1,18 @@
-<h1 align="center">👃 Che!</h1>
-<h3 align="center">I'm Nahuel, a 20 years old Front-End Developer</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" witdh=200></>
+  <h1 align="center">👃 Che!</h1>
+  <h3 align="center">I'm Nahuel, a 20 years old Front-End Developer</h3>
+</div>
+
+
 
  <h1> 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h1> <br>
 - 🎧Music [Rock and Metal(JP), Pop(JP or EN), Electronic](Rock and Metal(JP), Pop(JP or EN), Electronic)<br>
 - 🕛Hobbies **Games, anime, manga, gym**<br>
 
-
+<div id='center'> 
+  <h1 id='center'> 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h1> <br>
+</div>
 
 <p align="left"> <a href="https://twitter.com/chesuu_" target="blank"><img src="https://img.shields.io/twitter/follow/chesuu_?logo=twitter&style=for-the-badge" alt="chesuu_" /></a> </p>
 
