@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/chesuu_" target="blank"><img src="https://img.shields.io/twitter/follow/chesuu_?logo=twitter&style=for-the-badge" alt="chesuu_" /></a> </p>
 
-- 📫 You can reach me in **nahuel.arevalo@hotmail.com**
+
 
 - 🎧Music [Rock and Metal(JP), Pop(JP or EN), Electronic](Rock and Metal(JP), Pop(JP or EN), Electronic)
-
 - 🕛Hobbies **Games, anime, manga, gym**
 
+ 📫 You can reach me in  **nahuel.arevalo@hotmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chesuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chesuu_" height="30" width="40" /></a>
